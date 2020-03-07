@@ -1,3 +1,3 @@
-# Projeto em Java de aprendizado.
+# Learning Java project.
 
-Aplicativo calcula a media entre alcool e gasolina e apresenta qual melhor combustivel para se usar.
+Application calculates the average between alcohol and gasoline and presents which best fuel to use.
